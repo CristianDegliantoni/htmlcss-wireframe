@@ -1,22 +1,37 @@
 * {
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0px;
 }
 
 header {
     text-align: center;
     background-color: darkslateblue;
+    color: white;
+
 }
 
+img {
+    width: 20%;
+    margin: 0% 80% 0% 0%
+}
 
 .rettangolo {
 
     border: 2px solid darkgray;
-    margin: 10px;
-    width: 200px;
-    padding: 2px;
+    margin: 20px auto;
+    width: 50%;
+    padding: 20px;
+    text-align: bottom;
 }
 
 footer {
     margin-top: 100px;
+    background-color: darkslateblue;
     text-align: center;
+    color: white;
 }
