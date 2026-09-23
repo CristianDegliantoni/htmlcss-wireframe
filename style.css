@@ -1,4 +1,10 @@
-* {
-    margin: 10px;
+header {
+    background-color: darkslateblue;
+}
 
+.rettangolo {
+    border-color: darkgray;
+    border: 2pc;
+    margin: 10px;
+    width: 200px;
 }
