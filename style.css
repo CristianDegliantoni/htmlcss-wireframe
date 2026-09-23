@@ -1,10 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
 header {
+    text-align: center;
     background-color: darkslateblue;
 }
 
+
 .rettangolo {
-    border-color: darkgray;
-    border: 2pc;
+
+    border: 2px solid darkgray;
     margin: 10px;
     width: 200px;
+    padding: 2px;
+}
+
+footer {
+    margin-top: 100px;
+    text-align: center;
 }
